@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_UV_Sensor.
 repo_prefix: "mks"
 repo_part: "Grove_UV_Sensor"
 embedded_example_file: "examples/Grove_UV_Sensor_minimal/Grove_UV_Sensor_minimal.ino"
-title: 'UV-Lichtsensor'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
